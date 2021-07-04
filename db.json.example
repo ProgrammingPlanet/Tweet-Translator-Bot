@@ -1,0 +1,16 @@
+{
+    "API_KEY": "xxxxxxxxxxxxxxx",
+    "API_SECRET_KEY": "xxxxxxxxxxxxxxxxxx",
+    "users": {
+        "sources": ["1385591173172060166", "1301897541600989184"],
+        "targets": {
+            "Language_Bot": {
+                "source": "1301897541600989184",
+                "languages": ["en", "ur"],
+                "access_token": "123456789-xxxxxxxxxxxxxx",
+                "access_token_secret": "xxxxxxxxxxxxxxxxxxxxxxxx"
+            }
+        }
+    }
+}
+

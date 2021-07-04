@@ -1,0 +1,2 @@
+tweepy==3.10.0
+deep-translator==1.4.4
