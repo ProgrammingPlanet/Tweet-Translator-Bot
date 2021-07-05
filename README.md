@@ -7,6 +7,7 @@
 git clone https://github.com/programmingplanet/Tweet-Translator-Bot
 cd Tweet-Translator-Bot
 python3 -m venv env
+source env/bin/activate
 pip3 install -r requirments.txt
 ```
 

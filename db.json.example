@@ -1,16 +1,24 @@
 {
-    "API_KEY": "xxxxxxxxxxxxxxx",
-    "API_SECRET_KEY": "xxxxxxxxxxxxxxxxxx",
+    "API_KEY": "xxxxxxxxxxxxxxxxx",
+    "API_SECRET_KEY": "xxxxxxxxxxxxxxxxxxx",
     "users": {
-        "sources": ["1385591173172060166", "1301897541600989184"],
-        "targets": {
-            "Language_Bot": {
-                "source": "1301897541600989184",
-                "languages": ["en", "ur"],
-                "access_token": "123456789-xxxxxxxxxxxxxx",
-                "access_token_secret": "xxxxxxxxxxxxxxxxxxxxxxxx"
+        "Language_Bot": {
+            "access_token": "00000000000-xxxxxxxxxxxxxx",
+            "access_token_secret": "xxxxxxxxxxxxxxxxxxxxxx"
+        }
+    },
+    "translations": {
+        "1301897541600989184": {
+            "username": "Coding_Planet",
+            "languages": {
+                "en": ["Language_Bot"]
+            }
+        },
+        "1385591173172060166": {
+            "username": "007qaqa",
+            "languages": {
+                "en": ["Language_Bot"]
             }
         }
     }
 }
-
